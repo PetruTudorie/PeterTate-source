@@ -1,6 +1,6 @@
-#Peter from Romania 👋
+Peter from Romania 👋
 
-**Digital Craftsman (Developer/Filmaker/Creator) , Trader & Student
+Digital Craftsman (Developer/Filmaker/Creator) , Trader & Student
 <!--
 **PeterTate-source/PeterTate-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
